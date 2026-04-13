@@ -1,80 +1,58 @@
 {
     "couple": {
         "groom": {
-            "name": "Aashutosh",
+            "name": "Rajnish",
             "parents": {
-                "mother": "Mrs. Sheela Devi",
-                "father": "Mr. Jai Krishna Rai"
+                "mother": "Mrs. Deji Devi",
+                "father": "Mr. Sunil Kumar Yadav"
             }
         },
         "bride": {
-            "name": "Anjali",
+            "name": "Dimple",
             "parents": {
-                "mother": "Mrs. Rajani Mishra",
-                "father": "Mr. Pawan Kumar Mishra"
+                "mother": "Mrs. Sangeeta Devi",
+                "father": "Mr. Ramakant Prasad"
             }
         },
-        "hashtag": "#AnShuForever"
+        "hashtag": "#rajnishwedsdimple"
     },
     "wedding": {
-        "date": "2026-05-01T18:00:00",
-        "displayDate": "MAY 1st, 2026"
+        "date": "2026-04-21T18:00:00",
+        "displayDate": "APRIL 21st, 2026"
     },
     "celebrations": [
-        {
-            "name": "Shagun & Tilak",
-            "date": "Apr 28, 2026",
-            "time": "1:00 PM",
-            "venue": "Muzaffarpur",
-            "showLocation": false,
-            "dressCode": "Traditional Indian Wear",
-            "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Aashutosh+%26+Anjali+-+Shagun+%26+Tilak&dates=20260428T130000/20260428T140000&details=Shagun+%26+Tilak+Ceremony&location=Muzaffarpur&ctz=Asia/Kolkata"
-        },
+     
         {
             "name": "Haldi & Mehandi Delight",
-            "date": "Apr 30, 2026",
+            "date": "Apr 21, 2026",
             "time": "10:00 AM",
-            "venue": "Dalaan Resort, Darbhanga",
-            "googleMapsUrl": "https://maps.app.goo.gl/o9qe87oFZgnpcRZ66",
+            "venue": "Champaran Banquet & Resort, Harsidhi",
+            "googleMapsUrl": "https://maps.app.goo.gl/SoX9zEo6pA6AaZJGA",
             "showLocation": true,
-            "mapImage": "assets/images/map.png",
-            "dressCode": "Marigold & Mint",
-            "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Aashutosh+%26+Anjali+-+Haldi+%26+Mehandi&dates=20260430T100000/20260430T110000&details=Haldi+%26+Mehandi+Ceremony&location=Dalaan+Resort,+Darbhanga&ctz=Asia/Kolkata"
-        },
+            "mapImage": "assets/images/map.png"
+                },
         {
-            "name": "Sangeet Night",
-            "date": "Apr 30, 2026",
+            "name": "Baraat",
+            "date": "Apr 21, 2026",
             "time": "7:00 PM",
-            "venue": "Dalaan Resort, Darbhanga",
-            "googleMapsUrl": "https://maps.app.goo.gl/53Gwi5RxcAEgncsTA",
+            "venue": "Champaran Banquet & Resort, Harsidhi",
+            "googleMapsUrl": "https://maps.app.goo.gl/SoX9zEo6pA6AaZJGA",
             "showLocation": true,
-            "dressCode": "Shimmer, Shine & Show-Stop",
-            "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Aashutosh+%26+Anjali+-+Sangeet+Night&dates=20260430T190000/20260430T200000&details=Sangeet+Night&location=Darbhanga&ctz=Asia/Kolkata"
-        },
+            "highlight": true
+            
+             },
         {
-            "name": "AnShu Ki Mangal Shaadi",
-            "date": "May 1, 2026",
-            "time": "6:00 PM",
-            "venue": "Dalaan Resort, Darbhanga",
-            "googleMapsUrl": "https://maps.app.goo.gl/NsG4jAT9gpjaP9xEA",
-            "showLocation": true,
-            "dressCode": "Royal & Regal",
-            "highlight": true,
-            "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Aashutosh+%26+Anjali+-+Mangal+Shaadi&dates=20260501T180000/20260501T190000&details=Wedding+Ceremony&location=Dalaan+Resort&ctz=Asia/Kolkata"
-        },
-        {
-            "name": "Reception",
-            "date": "May 9, 2026",
-            "time": "7:00 PM",
-            "venue": "Shankar Orchids, Muzaffarpur",
-            "googleMapsUrl": "https://maps.app.goo.gl/ghrynPEXkaisPR3b9",
-            "showLocation": true,
-            "dressCode": "Dress to Bless",
-            "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Aashutosh+%26+Anjali+-+Reception&dates=20260509T190000/20260509T200000&details=Reception+Ceremony&location=Shankar+Orchids,+Muzaffarpur&ctz=Asia/Kolkata"
-        }
+            "name": "Dinner",
+            "date": "Apr 21, 2026",
+            "time": "8:00 PM",
+            "venue": "Champaran Banquet & Resort, Harsidhi",
+            "googleMapsUrl": "https://maps.app.goo.gl/SoX9zEo6pA6AaZJGA",
+            "showLocation": true
+             }
+     
     ],
     "contact": {
-        "whatsapp": "919199188101",
+        "whatsapp": "918709708998",
         "instagram": ""
     },
     "messages": {
@@ -86,5 +64,5 @@
         "url": "assets/music/music.mp3",
         "autoplay": true
     },
-    "websiteUrl": "https://theaashuanjaliaffair.netlify.app/"
+    "websiteUrl": "https://rajnishwedsdimple.netlify.app/"
 }
